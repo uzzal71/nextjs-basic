@@ -9,7 +9,8 @@ export default function Contact() {
             Descriptions
         </p>
         <form>
-            <input />
+            <input type="text" name="name"/>
+            <input type="text" name="email"/>
             <button>Submit</button>
         </form>
         </main>
