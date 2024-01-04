@@ -5,6 +5,9 @@ export default function Contact() {
             <div>
             This is contact page
         </div>
+        <p>
+            Descriptions
+        </p>
         </main>
     );
 }
