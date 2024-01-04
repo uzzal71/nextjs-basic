@@ -8,7 +8,9 @@ export default function Contact() {
         <p>
             Descriptions
         </p>
-        <form></form>
+        <form>
+            <input />
+        </form>
         </main>
     );
 }
