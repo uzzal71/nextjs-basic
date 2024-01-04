@@ -10,6 +10,7 @@ export default function Contact() {
         </p>
         <form>
             <input />
+            <button>Submit</button>
         </form>
         </main>
     );
